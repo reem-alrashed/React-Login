@@ -1,3 +1,7 @@
+## Breif
+
+Simply a login frontend application built using React.
+
 ## Available Scripts
 
 In the project directory, you can run:
